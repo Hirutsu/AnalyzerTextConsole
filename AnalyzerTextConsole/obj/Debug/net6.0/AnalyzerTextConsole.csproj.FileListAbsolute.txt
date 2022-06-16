@@ -1,0 +1,15 @@
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\bin\Debug\net6.0\AnalyzerTextConsole.exe
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\bin\Debug\net6.0\AnalyzerTextConsole.deps.json
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\bin\Debug\net6.0\AnalyzerTextConsole.runtimeconfig.json
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\bin\Debug\net6.0\AnalyzerTextConsole.dll
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\bin\Debug\net6.0\AnalyzerTextConsole.pdb
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\obj\Debug\net6.0\AnalyzerTextConsole.csproj.AssemblyReference.cache
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\obj\Debug\net6.0\AnalyzerTextConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\obj\Debug\net6.0\AnalyzerTextConsole.AssemblyInfoInputs.cache
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\obj\Debug\net6.0\AnalyzerTextConsole.AssemblyInfo.cs
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\obj\Debug\net6.0\AnalyzerTextConsole.csproj.CoreCompileInputs.cache
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\obj\Debug\net6.0\AnalyzerTextConsole.dll
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\obj\Debug\net6.0\refint\AnalyzerTextConsole.dll
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\obj\Debug\net6.0\AnalyzerTextConsole.pdb
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\obj\Debug\net6.0\AnalyzerTextConsole.genruntimeconfig.cache
+C:\Users\offic\source\repos\AnalyzerTextConsole\AnalyzerTextConsole\obj\Debug\net6.0\ref\AnalyzerTextConsole.dll
